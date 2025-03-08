@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tutorial </title>
+</head>
+<body>
+    <!-- eeeeee -->
+    <!-- <h1> <b> Hello World </h1>
+    <p> hello </p> -->
+    <!-- <p> tag is used to create paragraphs </p>
+    <a href=""> website name </a> is used to add website references 
+     -->
+    <!-- <hr> tag is used to add horizintal ruler
+    <br> tag adds a line break
+    <sub> tag creates subscript</sub>
+    <sup> tag creates super script</sup>
+    <small> tag makes text look small</small>
+    <big> makes text look big</big>
+    <img src=""/> tag inserts image 
+    <pre> tag returns paragraph in user entered format </pre> -->
+    <h3> hiii </h3>
+    <p> <b> nold</b> this is a <i> paragraph </i> <big> </big></p>
+    <br>
+    <a href="https://www.coursera.org/?msockid=1a037ecf556863330d876e3d54616256"> <img src="https://th.bing.com/th/id/OIP.VTYGhvjaHh73niCyy9_mzQHaD4?rs=1&pid=ImgDetMain" alt="coursera" height="50" width="50"></a>
+    <br>
+    <!-- use target="_main" to open link in new tab -->
+    <a href="https://github.com/Sumayyah-Mohammedy/java" target="_main">Git </a>
+    <br>
+    <img src="https://th.bing.com/th/id/OIP.VTYGhvjaHh73niCyy9_mzQHaD4?rs=1&pid=ImgDetMain" alt=" coursera" height="45"/>
+    <a href="./hello.html">go to </a>
+    <hr>  
+    <p> h <sub> 2</sub> o</p>
+    <small>hello  </small>
+    <big> Hello</big>
+    <hr>
+    <pre> sample      text </pre>
+    <br>
+    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate facere cum obcaecati natus, perspiciatis ipsum recusandae deleniti perferendis reprehenderit, illum quam odit! Ad nihil a cumque quo, excepturi distinctio eveniet!</p>
+</body>
+</html>
